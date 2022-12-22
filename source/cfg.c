@@ -1413,7 +1413,6 @@ void CFG_Default()
 	CFG.gui_pointer_scroll = 1;
 	// default game settings
 	CFG.game.video    = CFG_VIDEO_SYS;
-	CFG.game.video.patch    = CFG_VIDEO_PATCH_ALL;
 	CFG.game.ocarina = 1;
 	CFG.game.hooktype = 7; // AXNextFrame
 	CFG.game.wide_screen = 0; // WIDE IS OFF
